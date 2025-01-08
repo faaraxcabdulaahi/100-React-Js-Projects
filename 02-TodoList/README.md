@@ -9,8 +9,6 @@ https://github.com/user-attachments/assets/be0fc70b-69dd-4f81-bb8a-5ab95e959459
 - The video showcases how to add, complete, edit, and delete tasks interactively.
 - It also highlights the application's responsive design and smooth user experience.
 
-(To add a video, upload it to a platform like YouTube or attach the file, then replace the current link with the appropriate URL.)
-
 
 ## Overview
 This is a simple and interactive **React Todo List Application** that allows users to:
