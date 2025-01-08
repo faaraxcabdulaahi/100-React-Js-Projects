@@ -1,5 +1,15 @@
 # Todo List Application
 
+## Project Showcase
+
+### Video Demo
+https://github.com/user-attachments/assets/fe378b7d-6338-4fd9-b36e-856295598dfe
+- The video showcases how to add, complete, edit, and delete tasks interactively.
+- It also highlights the application's responsive design and smooth user experience.
+
+(To add a video, upload it to a platform like YouTube or attach the file, then replace the current link with the appropriate URL.)
+
+
 ## Overview
 This is a simple and interactive **React Todo List Application** that allows users to:
 - Add tasks
@@ -116,12 +126,3 @@ The application uses **Tailwind CSS** for responsive and modern UI components. N
 
 ---
 
-## Project Showcase
-
-### Video Demo
-A video demonstration of this project is available at the following link: [Video Demo](https://github.com/user-attachments/assets/fe378b7d-6338-4fd9-b36e-856295598dfe).
-
-- The video showcases how to add, complete, edit, and delete tasks interactively.
-- It also highlights the application's responsive design and smooth user experience.
-
-(To add a video, upload it to a platform like YouTube or attach the file, then replace the current link with the appropriate URL.)
