@@ -9,6 +9,7 @@ const TodoList = () => {
   const addTask = () => {
     if (inputValue.trim()) {
       const newTask = { task: inputValue, completed: false };
+      console.log(newTask)
       setTasks([...tasks, newTask]);
       setInputValue("");
     }
@@ -19,12 +20,14 @@ const TodoList = () => {
     const updatedTask = tasks.map((task, item) =>
       item === index ? { ...task, completed: !task.completed } : task
     );
+    console.log(updatedTask)
     setTasks(updatedTask);
   };
 
   // Handle Delete Task
   const handleDeleteTask = (index) => {
     const deletedTask = tasks.filter((_, item) => item !== index);
+    console.log(deletedTask)
     setTasks(deletedTask);
   };
 
@@ -35,6 +38,7 @@ const TodoList = () => {
       const newEditedTask = tasks.map((task, item) =>
         item === index ? { ...task, task: editedTask } : task
       );
+      console.log(editedTask)
       setTasks(newEditedTask);
     }
   };
