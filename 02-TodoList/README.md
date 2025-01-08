@@ -1,9 +1,11 @@
+
 # Todo List Application
 
 ## Project Showcase
 
 ### Video Demo
-https://github.com/user-attachments/assets/fe378b7d-6338-4fd9-b36e-856295598dfe
+https://github.com/user-attachments/assets/be0fc70b-69dd-4f81-bb8a-5ab95e959459
+
 - The video showcases how to add, complete, edit, and delete tasks interactively.
 - It also highlights the application's responsive design and smooth user experience.
 
