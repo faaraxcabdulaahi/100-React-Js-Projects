@@ -105,10 +105,10 @@ The application uses **Tailwind CSS** for responsive and modern UI components. N
 
 3. Start the development server.
    ```bash
-   npm start
+   npm run dev
    ```
 
-4. Open the app in your browser at `http://localhost:3000/`.
+4. Open the app in your browser at `http://localhost:5000/`.
 
 ---
 
