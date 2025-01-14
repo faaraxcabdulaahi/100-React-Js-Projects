@@ -7,7 +7,7 @@ Welcome to the **50 Days of React.js Learning Challenge**! This journey is desig
 
 ## Goals
 - Gain a **deep understanding** of React.js fundamentals.
-- Build a strong portfolio of **100 React projects**.
+- Build a strong portfolio of **50 React projects**.
 - Develop expertise in integrating React with modern tools like **Tailwind CSS**, **APIs**, and **state management libraries**.
 - Practice **responsive design**, **reusability**, and **best practices** in React development.
 
