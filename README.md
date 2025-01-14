@@ -1,7 +1,7 @@
-# 100 Days of Learning React.js
+# 50 Days of Learning React.js
 
 ## Overview
-Welcome to the **100 Days of React.js Learning Challenge**! This journey is designed to help you master React.js by building **100 projects** over the course of 100 days. Each project is tailored to cover key concepts, starting from the basics and gradually increasing in complexity. The focus is on **hands-on practice**, which will solidify your skills in modern front-end development.
+Welcome to the **50 Days of React.js Learning Challenge**! This journey is designed to help you master React.js by building **50 projects** over the course of 50 days. Each project is tailored to cover key concepts, starting from the basics and gradually increasing in complexity. The focus is on **hands-on practice**, which will solidify your skills in modern front-end development.
 
 ---
 
